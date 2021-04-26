@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FCC-random-quote-machine/static/css/main.d16f35e5.chunk.css",
-    "main.js": "/FCC-random-quote-machine/static/js/main.8730fd53.chunk.js",
-    "main.js.map": "/FCC-random-quote-machine/static/js/main.8730fd53.chunk.js.map",
+    "main.js": "/FCC-random-quote-machine/static/js/main.a576fad7.chunk.js",
+    "main.js.map": "/FCC-random-quote-machine/static/js/main.a576fad7.chunk.js.map",
     "runtime-main.js": "/FCC-random-quote-machine/static/js/runtime-main.677f6eb5.js",
     "runtime-main.js.map": "/FCC-random-quote-machine/static/js/runtime-main.677f6eb5.js.map",
     "static/js/2.b7d1146b.chunk.js": "/FCC-random-quote-machine/static/js/2.b7d1146b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.677f6eb5.js",
     "static/js/2.b7d1146b.chunk.js",
     "static/css/main.d16f35e5.chunk.css",
-    "static/js/main.8730fd53.chunk.js"
+    "static/js/main.a576fad7.chunk.js"
   ]
 }
